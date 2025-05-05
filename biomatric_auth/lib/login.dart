@@ -16,7 +16,8 @@ class _LoginState extends State<Login> {
       ),
       body: Column(
         children: [
-          Text("HI")
+          Text("HI"),
+          Text("New Version 4")
         ],
       ),
     );
